@@ -8,7 +8,9 @@ class Main
 
     Main.my_class_method
     my_instance_method
-    # my_class_method # <- not instance method
+
+    my_instance_method2
+
   end
 end
 
